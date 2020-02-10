@@ -1,0 +1,16 @@
+.wrapper{
+    border: 5px solid green ;
+}
+
+.wrapper-header{
+    border: 5px solid red ;
+}
+#content{
+    border: 5px solid yellow ;
+}
+span{
+    border: 5px solid rgb(197, 53, 178);
+}
+.box{
+    border: 5px solid blue ;
+}
